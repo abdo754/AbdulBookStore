@@ -12,4 +12,5 @@ upload the theme
 replace the bootstap
 change the link in layout 
 change the color so it can be seen and also the footer too 
+removed all of the dark text on logunput
 
