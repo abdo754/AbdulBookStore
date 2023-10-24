@@ -3,3 +3,5 @@
 Starting  Assignment 2 - Part IAssignment 2 - Part I
 got to comment "sslPort": 44376 for web to work
 now got to modfity the startup.cs
+just learn how to Debuging by tabbing on the side and mark red to up to where than just press contines 
+
