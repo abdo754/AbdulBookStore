@@ -11,4 +11,5 @@ Now is time to add a theme that is not Yeti
 upload the theme
 replace the bootstap
 change the link in layout 
+change the color so it can be seen and also the footer too 
 
