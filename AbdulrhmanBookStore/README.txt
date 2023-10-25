@@ -15,3 +15,8 @@ change the color so it can be seen and also the footer too
 removed all of the dark text on logunput
 
 10/25/2023
+the theme does not want to change?
+stuck i will go over what i have done 
+found the problem i download the min bootstap which did not change my theme 
+download the other bootstrap
+it work!!!
