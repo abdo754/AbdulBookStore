@@ -14,3 +14,4 @@ change the link in layout
 change the color so it can be seen and also the footer too 
 removed all of the dark text on logunput
 
+10/25/2023
