@@ -20,3 +20,7 @@ stuck i will go over what i have done
 found the problem i download the min bootstap which did not change my theme 
 download the other bootstrap
 it work!!!
+
+9:45
+
+adding the css and js link file 
