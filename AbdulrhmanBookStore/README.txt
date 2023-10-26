@@ -34,3 +34,5 @@ chainging the name of the dropdown to 'Content Managment
 now is time to add project.... 
 add the projects
 remove tha data and put in the DataAccuess proejct 
+in some way i could not find the Microsoft.EntityFrameworkCore.Retional to install 
+can mail the teacter beucase my mail does not work 
