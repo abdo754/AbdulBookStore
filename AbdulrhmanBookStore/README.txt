@@ -27,3 +27,10 @@ adding the css and js link file
 coding for dropdown list
 there was problem my whole css/js does not work
 i fix it i removed when u put the link that you have proived 
+
+10/26/2023
+
+chainging the name of the dropdown to 'Content Managment
+now is time to add project.... 
+add the projects
+remove tha data and put in the DataAccuess proejct 
