@@ -39,3 +39,7 @@ can mail the teacter beucase my mail does not work
 
 10/30/2023
 found the  Microsoft.EntityFrameworkCore.Retional  and download it 
+now to modify relfect the prokject
+deleted all the class1.cs file
+delete  the models and but in the AbdulrhmanBooks.Models
+change the name of namespace errorViewModels to .models.ViewModels
